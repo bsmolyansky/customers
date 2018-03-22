@@ -1,4 +1,4 @@
-[
+{ "customers": [
     {
         "firstName": "Andrew",
         "lastName": "Michelena",
@@ -119,4 +119,4 @@
         "alternateEmailAddress": "                                                  ",
         "gender": "F"
     }
-]
+]}
